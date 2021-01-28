@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Light Sensor</string>
+    <string name="light_is_switched_off">Light is switched off</string>
+</resources>
